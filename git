@@ -1,1 +1,8 @@
 mkdir
+ls
+cd
+pwd
+git init
+git status
+git add
+git log
